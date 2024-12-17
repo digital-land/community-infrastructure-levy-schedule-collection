@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/digital-land/community-infrastructure-levy-schedule-collection/blob/main/LICENSE)
 [![Run pipeline](https://github.com/digital-land/XXX-collection/actions/workflows/run.yml/badge.svg)](https://github.com/digital-land/XXX-collection/actions/workflows/run.yml)
 
-A collection of the geospatial resources used by the [conservation area](https://www.digital-land.info/dataset/community-infrastructure-levy-schedule/) dataset.
+A collection of the geospatial resources used by the [community infrastructure levy schedule](https://www.digital-land.info/dataset/community-infrastructure-levy-schedule/) dataset.
 
 # Updating the collection
 
