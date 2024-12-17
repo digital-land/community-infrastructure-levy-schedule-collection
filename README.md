@@ -1,21 +1,9 @@
 # community-infrastructure-levy-schedule collection
 
-[![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/digital-land/XXX/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/digital-land/community-infrastructure-levy-schedule-collection/blob/main/LICENSE)
 [![Run pipeline](https://github.com/digital-land/XXX-collection/actions/workflows/run.yml/badge.svg)](https://github.com/digital-land/XXX-collection/actions/workflows/run.yml)
 
-The data and pipeline to build the [XXX dataset](https://www.digital-land.info/dataset/XXX).
-
-# Collection
-
-* [collection/source.csv](collection/source.csv) — the list of data sources by organisation, see [specification/source](https://digital-land.github.io/specification/schema/source/)
-* [collection/endpoint.csv](collection/endpoint.csv) — the list of endpoint URLs for the collection, see [specification/endpoint](https://digital-land.github.io/specification/schema/endpoint)
-* [collection/resource/](collection/resource/) — collected resources
-
-*These files are now stored in AWS S3:*
-
-* [collection/log/](https://files.planning.data.gov.uk/XXX/collection/log/) — individual log JSON files, created by the collection process
-* [collection/log.csv](https://files.planning.data.gov.uk/XXX/collection/log.csv) — a collection log assembled from the individual log files, see [specification/log](https://digital-land.github.io/specification/schema/log)
-* [collection/resource.csv](https://files.planning.data.gov.uk/XXX/collection/resource.csv) — a list of collected resources, see [specification/resource](https://digital-land.github.io/specification/schema/resource)
+A collection of the geospatial resources used by the [conservation area](https://www.digital-land.info/dataset/community-infrastructure-levy-schedule/) dataset.
 
 # Updating the collection
 
